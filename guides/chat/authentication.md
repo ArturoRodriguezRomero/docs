@@ -16,7 +16,7 @@ Next we have to define the service we would like to use to store user informatio
 
 ![Final Configuration](./assets/authentication.png)
 
-> __Note:__ For more information on Feathers authentication see the [authentication server API documentaion](../../api/authentication/server.md).
+> __Note:__ For more information on Feathers authentication see the [authentication server API documentation](../../api/authentication/server.md).
 
 ## Creating a user and logging in
 
